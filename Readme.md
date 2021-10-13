@@ -1,14 +1,4 @@
-# Übungsblatt 12
-
-## Wichtige Informationen zur Bearbeitung der Aufgabe 
- - [Informationen zur Entwicklungsumgebung *IntelliJ IDEA*](https://elearning.uni-regensburg.de/mod/book/view.php?id=1480675)
- - [Informationen zum Im- und Export von Projekten](https://elearning.uni-regensburg.de/mod/book/view.php?id=1480675&chapterid=51551)
-
-## Starterpaket
-
-Ein vorbereitetes Starterpaket zur selbständigen Implementierung der Aufgabe finden Sie [hier](https://github.com/OOP-Ubungen-WS2020-21/U12-GraphicsApp/archive/Starterpaket.zip).
-
-## Flight Planner
+# U12 | Flight Planner
 Ihre Aufgabe ist es, eine KonsolenApplikation zu schreiben, welche aus einer Datei Flugziele
 von verschiedenen Städten ausliest und dem Nutzer erlaubt, einen Round-Trip
 mit dem Flugzeug zu planen.
